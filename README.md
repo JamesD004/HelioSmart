@@ -1,0 +1,2 @@
+# HelioSmart
+HelioSmart es un sistema digital programado en lenguaje Verilog e implementado en la FPGA Cyclone 4 (intel), cuya función es controlar la intensidad lumínica emitida por  un led,  manualmente a través de un teclado o automáticamente en razón de la cantidad de luminosidad percibida en la habitación , además la intensidad lumínica siempre será cero, si no es detectada ninguna presencia cercana al sistema.
